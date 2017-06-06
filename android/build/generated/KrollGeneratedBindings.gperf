@@ -1,0 +1,16 @@
+%define lookup-function-name lookupGeneratedInit
+%define class-name AdwordsandroidBindings
+%{
+
+#include <string.h>
+#include <v8.h>
+#include <KrollBindings.h>
+
+#include "me.direcciona.adwords.android.AdwordsandroidModule.h"
+
+
+%}
+struct titanium::bindings::BindEntry;
+%%
+me.direcciona.adwords.android.AdwordsandroidModule,::me::direcciona::adwords::android::AdwordsandroidModule::bindProxy,::me::direcciona::adwords::android::AdwordsandroidModule::dispose
+%%

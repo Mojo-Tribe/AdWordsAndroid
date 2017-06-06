@@ -1,0 +1,6 @@
+"/Users/mojotribe/Documents/Carrefour2018Main/AdWordsAndroid/android/src/me/direcciona/adwords/android/AdwordsandroidModule.java"
+"/Users/mojotribe/Documents/Carrefour2018Main/AdWordsAndroid/android/build/generated/java/me/direcciona/adwords/android/AdwordsandroidBootstrap.java"
+"/Users/mojotribe/Documents/Carrefour2018Main/AdWordsAndroid/android/build/generated/r/android/support/v7/appcompat/R.java"
+"/Users/mojotribe/Documents/Carrefour2018Main/AdWordsAndroid/android/build/generated/r/android/support/v7/cardview/R.java"
+"/Users/mojotribe/Documents/Carrefour2018Main/AdWordsAndroid/android/build/generated/r/me/direcciona/adwords/android/R.java"
+"/Users/mojotribe/Documents/Carrefour2018Main/AdWordsAndroid/android/build/generated/r/ti/modules/titanium/ui/R.java"
